@@ -27,6 +27,50 @@ FORMATIONS
 COMPETENCES
 -----------
 
+Informatique:
+
+- Langage Web:
+    PHP 5
+    HTML 5
+    CSS 3
+    Javascript
+    JQuery
+    Bootstrap 3
+    MySQL (PDO)
+    ActionScript3
+    CMS / Frameworks :
+    Drupal
+    Wordpress
+    CodeIgniter
+
+- Environnement de dev
+    Linux
+    Git
+    Grunt
+    Composer
+    Bower
+
+- Langage logiciel 
+    Java
+    J2ME
+
+- Logiciel infographie
+    Photoshop
+    Flash
+    Illustrator
+
+- Autres
+    Première Pro
+    AfterEffects
+
+
+Langues :
+
+Anglais (B1) (Parlé, lu, écrit moyen)
+Espagnol (C1) (Parlé et lu bon, écrit moyen)
+Portugais (C2) (Parlé couramment)
+
+
 
 EXPERIENCES
 -----------
