@@ -82,3 +82,10 @@ Pedro AMORIM
 Contrat de professionnalisation
 Intranet en PHP, JavaScript et Ajax. 
 
+* * *
+
+## Projet Perso ##
+
+### 2014 avril ###
+Site personel **<http://www.pamorim.fr>**
+HTML5 - CSS3 - **Bootstrap 3** - LESS - Grunt
