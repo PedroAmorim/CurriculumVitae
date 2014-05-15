@@ -74,3 +74,19 @@ Portugais (C2) (Parlé couramment)
 
 EXPERIENCES
 -----------
+
+Avril 2014: 
+    www.pamorim.fr
+    HTML5 - CSS3 - Bootstrap 3
+
+2010 - mai 2014:
+    BDmultimedia (Paris),Développeur Web
+        Starpass.fr / Payduo.com - Backend PHP - MySQL - Solution de micropaiement (CA 2012 : 23 196 K €).
+        Serveur de paiement CB CodeIgniter - PDO - GetText - Paybox (Direct Plus + 3Dsecure).
+        Sites de Vidéos Drupal 7 - Multisites Aegir - Création module de paiement.  
+        Multi-Sites Photos évènementiel Wordpress
+        Site de e-commerce OSCommerce. Front & BackEnd OSCommerce - PHP - MySQL - JQuery
+
+2009 - 2010:
+    La.net (St Marcel,Eure), Contrat de professionnalisation
+        Intranet en PHP, JavaScript et Ajax. 
