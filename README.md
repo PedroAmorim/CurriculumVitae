@@ -87,3 +87,11 @@ Intranet en PHP, JavaScript et Ajax.
 ### 2014 avril ###
 Site personel **<http://www.pamorim.fr>**  
 HTML5 - CSS3 - **Bootstrap 3** - LESS - Grunt  
+
+# ANNEXES #
+
+## lolcommit ##
+
+Voici le lolcommit du projet, réalisé sans trucage et dans la bonne humeur ! :D
+
+![Lolcommit](http://www.pamorim.fr/images/lolcommit.gif)  
