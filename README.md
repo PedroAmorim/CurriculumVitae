@@ -1,42 +1,41 @@
 # CURRICULUM VITAE #
 
 
-![Logo](http://www.pamorim.fr/images/logo_lg.png)
+![Logo](http://www.pamorim.fr/images/logo.png)
 
 
 ## ABOUT ME ##
 
-Pedro AMORIM
-27ans
-<contact@pamorim.fr>
-<http://www.pamorim.fr>
+Pedro AMORIM  
+<contact@pamorim.fr>  
+<http://www.pamorim.fr>  
 
 ## FORMATIONS ##
 
-***2009 / 2010***:  Formation en **alternance** chez DORANCO à Paris,
+***2009 / 2010***:  Formation en **alternance** chez DORANCO à Paris,  
             Développeur d'Applications Multimédia option Infographiste.
 
-***2007 / 2009***:  UFR des Sciences et Technologies de Rouen(76),
+***2007 / 2009***:  UFR des Sciences et Technologies de Rouen(76),  
             **Licence Informatique** option Génie Mathématique et Informatique.
 
-***2005 / 2007*** : IUT du Havre (76),
+***2005 / 2007*** : IUT du Havre (76),  
             **DUT informatique**.
 
-***2004 / 2005*** : Lycée George Dumézil, Vernon (27).
+***2004 / 2005*** : Lycée George Dumézil, Vernon (27).  
             **Baccalauréat** série **S**, option SI (Science de l’Ingénieur)
 
 ## COMPETENCES ##
 
 ### Informatique ###
+
 * Langage Web
- * PHP 5
+ * PHP
  * HTML 5
  * CSS 3
  * Javascript
  * JQuery
  * Bootstrap 3
  * MySQL (PDO)
- * ActionScript3
 
 * CMS / Frameworks :
  * Drupal
@@ -49,12 +48,10 @@ Pedro AMORIM
  * Git
  * Grunt
  * Composer
- * Bower
 
 
 * Logiciel infographie
  * Photoshop
- * Flash
  * Illustrator
 
 * Autres
@@ -62,50 +59,47 @@ Pedro AMORIM
  * AfterEffects
 
 
-### Langues ###
+### Langues ###  
 
-* Anglais (B1) (Parlé, lu, écrit moyen)
-* Espagnol (C1) (Parlé et lu bon, écrit moyen)
-* Portugais (C2) (Parlé couramment)
+* Anglais (B1)  
+* Espagnol (C1)  
+* Portugais (C2)  
 
-## EXPERIENCES ##
+## EXPERIENCES ##  
 
-###sept 2014 | Netvibes###
-Backend Zend Framework 1
-Protocoles Oauth 1 & 2
+### sept 2014 | Netvibes ###
+
+Backend Zend Framework 1  
+Protocoles Oauth 1 & 2  
 Web services Google, Facebook, Twitter, LinkedIn, Instagram, Foursquare, Nest, Netatmo, etc
 
-###juillet - mai 2014 | Devispresto (Groupe Wengo)###
-Backend Zend Framework 1
-Thème Bootstrap 3
-Outils: Git / Redmine / Trello
+### juillet - sept 2014 | Devispresto (Groupe Wengo) ###  
 
-###2010 - mai 2014 | BDmultimedia###
- **Starpass.fr** / Payduo.com - Backend PHP - MySQL - Solution de micropaiement (CA 2012 : 23 196 K €).
- Serveur de paiement CB avec **CodeIgniter** - PDO/MySQL - GetText - Paybox (Direct Plus + 3Dsecure).
- Sites de Vidéos **Drupal 7** - Multisite avec Aegir - Création module de paiement.
- Multi-Sites Photos évènementiel sous **WordpressMU**
- Site de e-commerce. FrontEnd & BackEnd OSCommerce - PHP - MySQL - JQuery
+Backend Zend Framework 1  
+Thème Bootstrap 3  
+Outils: Git / Redmine / Trello  
 
-###2009 - 2010 | La.net###
-Contrat de professionnalisation
-Intranet en PHP, JavaScript et Ajax.
+### 2010 - 2014 | BDmultimedia ###
 
-## Projet Perso ##
+ **Starpass.fr** / Payduo.com - Backend PHP - MySQL - Solution de micropaiement (CA 2012 : 23 196 K €).  
+ Serveur de paiement CB avec **CodeIgniter** - PDO/MySQL - GetText - Paybox (Direct Plus + 3Dsecure).  
+ Sites de Vidéos **Drupal 7** - Multisite avec Aegir - Création module de paiement.  
+ Multi-Sites Photos évènementiel sous **WordpressMU**  
+ Site de e-commerce. FrontEnd & BackEnd OSCommerce - PHP - MySQL - JQuery  
 
-### 2015 février ###
-Contribution au projet PHPoAuthLib
+### 2009 - 2010 | La.net ###
 
+Contrat de professionnalisation  
+Intranet en PHP, JavaScript et Ajax.  
+
+## Projet Perso ##  
+
+Fork d'un projet de Photobooth  
+https://github.com/PedroAmorim/drumminhands_photobooth  
+https://github.com/PedroAmorim/Photobooth
+
+Contribution au projet PHPoAuthLib  
 https://github.com/Lusitanian/PHPoAuthLib
 
-### 2014 avril ###
-Site personel **<http://www.pamorim.fr>**
-HTML5 - CSS3 - **Bootstrap 3** - LESS - Grunt
-
-# ANNEXES #
-
-## lolcommit ##
-
-Voici le lolcommit du projet, réalisé sans trucage et dans la bonne humeur ! :D
-
-![Lolcommit](http://www.pamorim.fr/images/lolcommit.gif)
+Site personel **<http://www.pamorim.fr>**    
+HTML5 - CSS3 - **Bootstrap 3** - LESS - Grunt  
