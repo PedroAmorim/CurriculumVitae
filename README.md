@@ -1,14 +1,14 @@
 # CURRICULUM VITAE #
 
 
-![Logo](http://www.pamorim.fr/images/logo.png)
+![Logo](https://www.pamorim.fr/images/logo.png)
 
 
 ## ABOUT ME ##
 
 Pedro AMORIM  
 <contact@pamorim.fr>  
-<http://www.pamorim.fr>  
+<https://www.pamorim.fr>  
 
 ## FORMATIONS ##
 
@@ -28,52 +28,52 @@ Pedro AMORIM
 
 ### Informatique ###
 
-* Langage Web
+*Langage Web :*
  * PHP
+ * Javascript
  * HTML 5
  * CSS 3
- * Javascript
- * JQuery
- * Bootstrap 3
- * MySQL (PDO)
+ * MySQL
 
-* CMS / Frameworks :
+*CMS / Frameworks :*
+ * Zend Framework 1
+ * Bootstrap 3
  * Drupal
  * Wordpress
  * CodeIgniter
- * Zend Framework 1
 
-* Environnement de dev
+*Environnement de dev:*
  * Linux
  * Git
- * Grunt
  * Composer
+ * PHPUnit
+ * TravisCI
+ * Redmine/Trello
 
-
-* Logiciel infographie
+*Logiciel infographie:*
  * Photoshop
  * Illustrator
 
-* Autres
+*Autres:*
  * Première Pro
  * AfterEffects
 
 
-### Langues ###  
+### Langues ###
 
-* Anglais (B1)  
-* Espagnol (C1)  
-* Portugais (C2)  
+* Anglais (B1)
+* Espagnol (C1)
+* Portugais (C2)
 
-## EXPERIENCES ##  
+## EXPERIENCES ##
 
 ### sept 2014 | Netvibes ###
 
 Backend Zend Framework 1  
 Protocoles Oauth 1 & 2  
-Web services Google, Facebook, Twitter, LinkedIn, Instagram, Foursquare, Nest, Netatmo, etc
+Web services Google, Facebook, Twitter, LinkedIn, Instagram, Foursquare, Nest, Netatmo, etc  
 
-### juillet - sept 2014 | Devispresto (Groupe Wengo) ###  
+### juillet - sept 2014 | Devispresto (Groupe Wengo) ###
 
 Backend Zend Framework 1  
 Thème Bootstrap 3  
@@ -81,25 +81,24 @@ Outils: Git / Redmine / Trello
 
 ### 2010 - 2014 | BDmultimedia ###
 
- **Starpass.fr** / Payduo.com - Backend PHP - MySQL - Solution de micropaiement (CA 2012 : 23 196 K €).  
- Serveur de paiement CB avec **CodeIgniter** - PDO/MySQL - GetText - Paybox (Direct Plus + 3Dsecure).  
- Sites de Vidéos **Drupal 7** - Multisite avec Aegir - Création module de paiement.  
- Multi-Sites Photos évènementiel sous **WordpressMU**  
- Site de e-commerce. FrontEnd & BackEnd OSCommerce - PHP - MySQL - JQuery  
+**Starpass.fr** / Payduo.com - Backend PHP - MySQL - Solution de micropaiement (CA 2012 : 23 196 K €).  
+Serveur de paiement CB avec **CodeIgniter** - PDO/MySQL - GetText - Paybox (Direct Plus + 3Dsecure).  
+Sites de Vidéos **Drupal 7** - Multisite avec Aegir - Création module de paiement.  
+Multi-Sites Photos évènementiel sous **WordpressMU**  
+Site de e-commerce. FrontEnd & BackEnd OSCommerce - PHP - MySQL - JQuery  
 
 ### 2009 - 2010 | La.net ###
 
 Contrat de professionnalisation  
 Intranet en PHP, JavaScript et Ajax.  
 
-## Projet Perso ##  
+## Projet Perso ##
 
-Fork d'un projet de Photobooth  
-https://github.com/PedroAmorim/drumminhands_photobooth  
+Projet Photobooth  
 https://github.com/PedroAmorim/Photobooth
 
 Contribution au projet PHPoAuthLib  
 https://github.com/Lusitanian/PHPoAuthLib
 
-Site personel **<http://www.pamorim.fr>**    
-HTML5 - CSS3 - **Bootstrap 3** - LESS - Grunt  
+Site personel **<https://www.pamorim.fr>**  
+HTML5 - CSS3 - **Bootstrap 3** - LESS - Grunt
