@@ -100,5 +100,5 @@ https://github.com/PedroAmorim/Photobooth
 Contribution au projet PHPoAuthLib  
 https://github.com/Lusitanian/PHPoAuthLib
 
-Site personel **<https://www.pamorim.fr>**  
+Site personnel **<https://www.pamorim.fr>**  
 HTML5 - CSS3 - **Bootstrap 3** - LESS - Grunt
