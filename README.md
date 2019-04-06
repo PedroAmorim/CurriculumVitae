@@ -67,31 +67,48 @@ Pedro AMORIM
 
 ## EXPERIENCES ##
 
-### sept 2014 | Netvibes ###
+### mai 2018 - mars 2019 | OmicX ###
 
-Backend Zend Framework 1  
-Protocoles Oauth 1 & 2  
-Web services Google, Facebook, Twitter, LinkedIn, Instagram, Foursquare, Nest, Netatmo, etc  
+#### Annuaire d'outils, domaine Bioinformatique  ####
+
+Backend: Zend Framework 2, PHP7, MariaDB, MongoDB  
+Frontend: JS, jQuery, CSS3, LESS  
+Env: Gitlab, méthode Scrum, Gulp, Docker  
+
+### sept 2014 - avril 2018 | Netvibes ###
+
+#### Aggrégateur de flux RSS  ####
+
+Backend: Zend Framework 1, MariaDB, Redis   
+IoT connection aux API (oAuth 1 & 2): Google (Analytics, Gmail), Facebook, Twitter, LinkedIn, Instagram, Foursquare, Nest, Netatmo, Pinterest, etc  
+Outils: Git, Redmine  
 
 ### juillet - sept 2014 | Devispresto (Groupe Wengo) ###
 
+#### Site d'annonces pour artisans ####
+
 Backend Zend Framework 1  
 Thème Bootstrap 3  
-Outils: Git / Redmine / Trello  
+Outils: Git, Redmine, Trello  
 
 ### 2010 - 2014 | BDmultimedia ###
 
-**Starpass.fr** / Payduo.com - Backend PHP - MySQL - Solution de micropaiement (CA 2012 : 23 196 K €).  
-Serveur de paiement CB avec **CodeIgniter** - PDO/MySQL - GetText - Paybox (Direct Plus + 3Dsecure).  
-Sites de Vidéos **Drupal 7** - Multisite avec Aegir - Création module de paiement.  
-Multi-Sites Photos évènementiel sous **WordpressMU**  
-Site de e-commerce. FrontEnd & BackEnd OSCommerce - PHP - MySQL - JQuery  
+#### Micropaiement, e-Commerce ####
+
+**Starpass.fr / Payduo.com** Solution de micropaiement (CA 2012 : 23 196 K €)  
+Serveur de paiement CB Paybox CodeIgniter - PDO  
+Module de paiement pour Drupal 7  
+Sites Photos évènementiel sous Wordpress  
+Site de e-commerce sous OSCommerce  
+Formation MySQL Cluster  
+Backend: PHP, MySQL  
 
 ### 2009 - 2010 | La.net ###
 
-Contrat de professionnalisation  
-Intranet en PHP, JavaScript et Ajax.  
-
+Intranet de gestion de la production en PHP, JavaScript et Ajax.  
+Projet Flash - ActionScript3 - Projet de fin d'étude.  
+Formations ASP.NET, Photoshop, Illustrator, Adobe Premiere  
+ 
 ## Projet Perso ##
 
 Projet Photobooth  
